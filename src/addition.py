@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit for somzi
+# This is a test commit for inda
 def add(a, b):
     return a + b
 
